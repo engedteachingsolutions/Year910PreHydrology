@@ -13679,24 +13679,7 @@
 "SCCriteria":"launch_content",
 "exitNormalIfCompleted":false
 }
-"eventVideos":[{
-"id":"si3363",
-"uri":"https://www.youtube.com/watch?v=m_ZLyzByj98&t=1s"
-}
-,{
-"id":"si3037",
-"uri":"https://www.youtube.com/watch?v=m_ZLyzByj98&t=1s"
-}
-,{
-"id":"si3297",
-"uri":"https://www.youtube.com/watch?v=m_ZLyzByj98&t=1s"
-}
-,{
-"id":"si3231",
-"uri":"https://www.youtube.com/watch?v=m_ZLyzByj98&t=1s"
-}
-]
-,,"toc":[{
+,"toc":[{
 "id":"Slide8838",
 "title":"Character and text 2"
 }
